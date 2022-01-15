@@ -37,7 +37,6 @@
     ],
     "directories": {
       "output": "dist/release"
-    },
-    "license": "MIT"
+    }
   }
 }
